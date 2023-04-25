@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f1ce9da-06cb-49c9-a804-88608998a1ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Estudo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Estudo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/linux/flutter/generated_plugins.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estrutura_flutter/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/estrutura_flutter/windows/flutter/generated_plugins.cmake" afterDir="false" />
-    </list>
+    <list default="true" id="4f1ce9da-06cb-49c9-a804-88608998a1ba" name="Changes" comment="Entendendo estrutura flutter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,12 +65,24 @@
       <updated>1682293628456</updated>
       <workItem from="1682293629705" duration="18000" />
       <workItem from="1682426296354" duration="2379000" />
-      <workItem from="1682428724671" duration="1226000" />
+      <workItem from="1682428724671" duration="1976000" />
     </task>
+    <task id="LOCAL-00001" summary="Entendendo estrutura flutter">
+      <created>1682430258193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682430258193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Entendendo estrutura flutter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entendendo estrutura flutter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
